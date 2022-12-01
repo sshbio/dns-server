@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sshbio/dns-server/issues"
   },
-  "homepage": "https://github.com/sshbio/dns-server#readme"
+  "homepage": "https://github.com/sshbio/dns-server#readme",
+  "dependencies": {
+    "commander": "^9.4.1"
+  }
 }
